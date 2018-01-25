@@ -1,4 +1,4 @@
-# Algorithmns
+# Algorithms
 
 I'm going through all the basic algorithmns in c for practice
 

@@ -24,18 +24,16 @@ void print_array(int arr[], int n){
 void bubbleSort(int arr[], int n){
   bool swapped = false;
 
-  while(true) {
-    //print_array(arr,n);
+  for(int j = 0; j < n; j++){
     swapped = false;
 
-    for (int i = 1; i < n; i++){
-
+    for(int i = 1; i < n; i++){
       if(arr[i-1] > arr[i]){
 
+	print_array(arr,n);
 	swap(&arr[i-1], &arr[i]);
 	swapped = true;
 
-	//print_array(arr,n);
       }
     } 
 

@@ -1,9 +1,10 @@
-# Algorithms and Data Sructures
+# Algorithms and Data Structures
 
-I'm going through all the basic algorithmns and data structures in c for practice
+I'm going through all the basic algorithms and data structures in c for practice
 
 ## Algorithms
-- [x] buble sort
+
+- [x] bubble sort
 - [x] binary search
 - [ ] selection sort
 - [ ] insertion sort
@@ -13,12 +14,13 @@ I'm going through all the basic algorithmns and data structures in c for practic
 - [ ] Tower of Hanoi
 
 ## Data Structures
+
 - [ ] linked list
 - [ ] heap
 - [ ] hash table
 - [ ] AVL tree
 - [ ] binary search tree
 
-
 ### Other
+
 - [ ] fibonacci series (dynamic programming)
